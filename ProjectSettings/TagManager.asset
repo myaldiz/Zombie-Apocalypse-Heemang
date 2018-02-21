@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Unwalkable Item
+  - bbadda
+  - GameManager
+  - knife
+  - button_0
+  - button_1
+  - button_2
+  - button_3
+  - button_4
+  - button_5
+  - button_6
+  - button_7
+  - button_8
+  - channel_1
+  - channel_2
+  - screen
+  - Zombie
+  - channel_3
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Unwalkables
+  - grabbable
+  - pressable
+  - StudentRoom1
+  - Corridor
+  - Zombie
+  - Zombie_dead
+  - StudentRoom2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

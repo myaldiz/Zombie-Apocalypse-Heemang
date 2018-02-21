@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4fcc34803747ee64682f8a7f9e69dbd4
+timeCreated: 1512368128
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - knife: {instanceID: 0}
+  - zombie_sound: {fileID: 8300000, guid: f9584a85b05ddf0439df8243788caf6c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
